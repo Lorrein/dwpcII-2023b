@@ -128,3 +128,6 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+git config --global user.name "<Lorreín>”
+git config --global user.email “<saturnouniversal_12@hotmail.com>"
